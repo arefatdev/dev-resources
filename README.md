@@ -232,6 +232,96 @@
 
 **[⬆ Back to Index](#index)**
 
+A curated list of fonts and typography resources.
+
+## Contents
+
+1. [General](#general)
+1. [Free fonts](#free-fonts)
+1. [Emojis](#emojis)
+1. [Iconic fonts](#iconic-fonts)
+1. [Programming fonts](#programming-fonts)
+1. [JavaScript libs](#javascript-libs)
+1. [GitHub Showcases](#github-showcases)
+1. [Other](#other)
+
+## General
+* [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
+* [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
+* [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
+* [Typewolf](https://www.typewolf.com/)
+
+## Free fonts
+
+#### Collections
+* [Crella](https://crella.net/free-fonts/) - Fonts offered for free for commercial use.
+* [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
+* [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
+* [Gidole](http://gidole.github.io/) - Open source, modern DIN
+* [Google Fonts](https://fonts.google.com/)
+  * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
+  * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
+  * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - Internationalized font for all languages, with rich support for CJK and emoji
+  * [Roboto](https://github.com/google/roboto) - Default font on Android & ChromeOS, and the recommended typeface for Material Design
+* [Indestructible Type](https://github.com/indestructible-type) - An open-source font foundry
+* [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - The Open-Source Type Movement
+  * [Chunk](https://www.theleagueofmoveabletype.com/chunk)
+  * [Junction](https://www.theleagueofmoveabletype.com/junction)
+  * [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic)
+  * ... And more
+* [Overpass](http://overpassfont.org/) - An open source font family inspired by Highway Gothic
+* [Zilla Slab](https://github.com/mozilla/zilla-slab) - Mozilla font
+* [Plex](https://github.com/IBM/plex) - IBM's open source font
+* [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
+* [USWDS](https://github.com/uswds) - U.S. Web Design System
+  * [Public Sans](https://public-sans.digital.gov/)
+
+#### Fonts
+* [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
+* [AtF Spark](https://github.com/aftertheflood/sparks) - Font designed to create sparklines
+* [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+* [Inter](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
+* [Libre Franklin](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+* [Manrope](https://github.com/sharanda/manrope) - Modern geometric sans-serif
+* [Open Baskerville](http://klepas.org/openbaskerville/)
+* [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
+* [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
+* [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+* [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
+
+
+## Emojis
+* [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
+* [Crypto Puzzles](https://github.com/2d4d/crypto_puzzles) - Includes e
+moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: http://rupp.de/crypto_puzzles/crypto_puzzles_web.py)
+* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
+* [emoji-data-js](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
+* [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
+* [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
+* [emoji-rspec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
+* [emoji-translate](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji
+* [emoji](https://github.com/leereilly/emoji) - All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc
+* [emoji](https://github.com/muan/emoji) - Find the emoji that echoes your mind
+* [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
+* [emojidex](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
+* [emojify.js](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
+* [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line
+* [emojilib](https://github.com/muan/emojilib) - Emoji keyword library
+* [emojillate](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
+* [emojione](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
+* [emojistatic](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
+* [emojitracker](https://github.com/mroth/emojitracker) - Track ALL the emoji
+* [emojize](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility
+* [gemoji](https://github.com/github/gemoji) - Emoji images and names
+* [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
+* [node-emoji](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
+* [megamoji](https://github.com/muan/megamoji) - Making megamojis like a pro
+* [mojibar](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
+* [mojime](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
+* [php-emoji](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
+* [twemoji](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
+* [vim-emoji](https://github.com/junegunn/vim-emoji) - Emoji in Vim
+
 ### <a name="podcasts"><a name="indie-hacking-podcasts">Podcasts</a></a>
 | &nbsp;&nbsp;&nbsp;&nbsp; | Name | Description | Links | Keywords |
 |---|---|---|---|---|
@@ -421,6 +511,90 @@
  <img src="https://cdn-images.zety.com/images/zety/apple-touch-icon-76x76-precomposed.png" width="16" /> | Zety | Use this online resume maker to build your resume fast and easy. Get expert advice as you write. Download in minutes and start getting interviews. | [Website](https://zety.com/) |  |
 
 **[⬆ Back to Index](#index)**
+## <a name="hacking">Hacking Tools</a>
+
+Name    |    Description
+----    |    ----
+[Backdoor](https://backdoor.sdslabs.co) | pen testing labs that have a space for beginners, a practice arena and various competitions, account required
+[The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
+[Challenge Land](http://challengeland.co/) | Ctf site with a twist, no simple sign-up, you have to solve a challengeto even get that far!
+[Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
+[Crackmes.one](https://crackmes.one/) | This is a simple place where you can download crackmes to improve your reverse engineering skills.
+[CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges
+[CTFs write-ups](https://github.com/ctfs) | a collection of writeups from various CTFs, organized by
+[CTF365](https://ctf365.com/) | account based ctf site, awarded by Kaspersky, MIT, T-Mobile
+[The enigma group](https://www.enigmagroup.org/) | web application security training, account based, video tutorials
+[Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
+[Google CTF](https://github.com/google/google-ctf) | Source code of Google 2017, 2018 and 2019 CTF
+[Google CTF 2019](https://capturetheflag.withgoogle.com/) | 2019 edition of the Google CTF contest
+[Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
+[Hack The Box](https://www.hackthebox.gr/en/login) | Pen testing labs hosting over 39 vulnerable machines with two additional added every month
+[Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
+[Hacker Gateway](https://www.hackergateway.com/) | ctfs covering steganography, cryptography, and web challengs, account required
+[Hacksplaining](https://www.hacksplaining.com/) | a clickthrough security informational site, very good for beginners.
+[hackburger.ee](http://hackburger.ee/) | hosts a number of web hacking challenges, account required
+[Hack.me](https://hack.me/) | lets you build/host/attack vulnerable web apps
+[Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, account required, users start at low levels and progress in difficulty
+[knock.xss.moe](https://knock.xss.moe) | XSS challenges, account required.
+[Lin.security](https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/) | Practice your Linux privilege escalation
+[noe.systems](http://noe.systems/) | Korean challenge site, requires an account
+[Over the wire](http://overthewire.org/wargames/) | A CTF that's based on progressive levels for each lab, the users SSH in, no account recquired
+[Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1) | aims at creating a universal ranking for CTF participants
+[PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
+[Pentestit](https://lab.pentestit.ru/) | acocunt based  CTF site, users have to install open VPN and get credentials
+[Pentest Practice](https://www.pentestpractice.com/) | account based Pentest practice, free to sign up, but there's also a pay-as-you-go feature
+[Pentest.training](https://pentest.training) | lots of various labs/VMS for you to try and hack, registry is optional.
+[PicoCTF](https://2017game.picoctf.com/) | CTF hosted by Carnegie Mellon, occurs yearly, account required.
+[pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
+[pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
+[Ringzer0 Team](https://ringzer0team.com/challenges) | an account based CTF site, hosting over 272 challenges
+[ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
+[SmashTheStack](http://smashthestack.org/wargames.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
+[Shellter Labs](https://shellterlabs.com/en/) | account based infosec labs, they aim at making these activities social
+[Solve Me](http://solveme.safflower.kr/) | "yet another challenge", account required.
+[Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
+[websec.fr](https://websec.fr/) | Focused on web challenges, registration is optional.
+[tryhackme](https://tryhackme.com) | Awesome platform to start learning cybersecurity, account is needed
+[webhacking.kr](https://webhacking.kr) | lots of web security challenges are available, recommended for beginners. You need to solve a simple challenge to sign up.
+[Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
+[Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
+[Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Brief Write up collection with a lot of screenshots good for begginers
+[Hacker101 CTF](https://ctf.hacker101.com/) | CTF hosted by HackerOne, always online. You will receive invitations to some private programs on HackerOne platform as a reward.
+[Hacking Lab](https://www.hacking-lab.com/index.html) | European platform hosting lots of riddles, challenges and competitions
+[Portswigger](https://portswigger.net/) | Best Platform inorder to learn Web Pentesting, account required
+### Reverse Engineering, Buffer Overflow and Exploit Development
+Name    |     Description
+----    |    ----
+[A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course) | as the title says, this course isn't for beginners
+[Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html) | huge collection of RE information,  organized by type.
+[Binary hacking](http://liveoverflow.com/binary_hacking/index.html) | 35 "no bullshit" binary videos along with other info
+[Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4) | Collection of Linux Rev. Engineering videos
+[Corelan tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) | detailed tutorial, lots of good information about memory
+[Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/) | a series of 9 exploit tutorials,also features a podcast
+[Exploit development](https://0x00sec.org/c/exploit-development) | links to the forum's exploit dev posts, quality and post style will vary with each poster
+[flAWS challenge](http://flaws.cloud/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).
+[Introduction to ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/) | tons of tutorials from infosec pro Azeria, follow her on twitter
+[Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86.html) | 63 days of OS class materials, 29 classes, 24 instructors, no account required
+[Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876) | listing of a lengthy resource by Lena, aimed at being a course
+[Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/) | blog post by sploitfun, has 3 different levels
+[Megabeets journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/) | one user's radare2 tutorials
+[Modern Binary Exploitation - CSCI 4968](https://github.com/RPISEC/MBE) | RE challenges, you can download the files or download the VM created by RPISEC specifically for challenges, also links to their home page with tons of infosec lectures
+[Recon.cx - reversing conference](https://recon.cx/) | the conference site contains recordings and slides of all talks!! 
+[Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf) | huge textbook, created by Dennis Yurichev, open-source
+[Reverse engineering reading list](https://github.com/onethawt/reverseengineering-reading-list/blob/master/README.md) | a github collection of RE tools and books
+[Reverse Engineering challenges](https://challenges.re/) | collection of challenges from the writer of RE for Beginners
+[Reverse Engineering for beginners (GitHub project)](https://github.com/dennis714/RE-for-beginners) | github for the above
+[Reverse Engineering Malware 101](https://malwareunicorn.org/workshops/re101.html) | intro course created by Malware Unicorn, complete with material and two VM's
+[Reverse Engineering Malware 102](https://malwareunicorn.org/workshops/re102.html) | the sequel to RE101
+[reversing.kr challenges](http://www.reversing.kr/challenge.php) | reverse engineering challenges varying in difficulty
+[Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
+[Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
+[Micro Corruption — Assembly](https://microcorruption.com) | CTF designed to learn Assembly by practicing
+
+
+
+
 ## <a name="programming">Programming</a> 
 
 ### <a name="books"><a name="programming-books">Books</a></a>
